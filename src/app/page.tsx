@@ -34,6 +34,17 @@ export default function Home() {
 
           <a className='inline-block rounded-full bg-green-500 px-5 py-3 font-alt text-sm uppercase leading-none text-black hover:bg-green-600' href=''>CADASTRAR LEMBRANçA</a>
           </div>
+
+          {/* Copyright */}
+          <div className='text-sm leading-relaxed text-gray-200'>
+          Feito com 💜 no NLW da 
+          <a 
+          target='_blanck'
+          rel='noreferrer'
+          className='underline hover:text-gray-100' 
+          href='https://rocketseat.com.br'> Rocketseat </a>
+          </div>
+
           </div>
 
 
