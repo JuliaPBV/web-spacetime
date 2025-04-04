@@ -8,7 +8,8 @@ export function SingIn() {
                  <User className='h-5 w-5 text-gray-500'/>
                </div>
    
-               <p className='text-sm leading-snug max-w-[140px]'><span className='underline'>Crie sua conta</span> e salve suas memórias!</p>
+               <p className='text-sm leading-snug max-w-[140px]'>
+                <span className='underline'>Crie sua conta</span> e salve suas memórias!</p>
              </a>
   );
 }

@@ -4,7 +4,7 @@ import { Copyright } from '@/components/Copyright'
 import { EmptyMemories } from '@/components/EmptyMemories'
 import { Hero } from '@/components/Hero'
 import { SingIn } from '@/components/SingIn'
-import { Profile } from '@/components/profile'
+import Profile  from '@/components/profile'
 
 export default async function Home() {
   const cookieStore = await cookies()
